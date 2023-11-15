@@ -11,4 +11,5 @@ app.listen(port, function () {
   console.log("Jose de Jesus Uscanga Molina")
 	console.log("Ivan Daniel Cruz Sorcia");
 	console.log("Pedro Damian Palomo Gaytan");
+	console.log("Magdiel Juarez Guerrero");
 })
