@@ -10,6 +10,7 @@ app.listen(port, function () {
 	console.log("Kevin Carmona Serrano")
 
 	console.log("Jose Andres Herrera Perez");
+	console.log("Nephtali Palillero Perez");
 
 	console.log("Lenin Meza")
 })
