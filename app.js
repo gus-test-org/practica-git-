@@ -5,5 +5,11 @@ app.listen(port, function () {
 	console.log("Running port ", port);
 
 	console.log("Escribe una linea que imprima tu nombre abajo de esta.");
+	console.log("Rigoberto Gonzalez");
+        console.log("Magdiel Juarez Guerrero");
+	console.log("Ignacio Baez");
+        console.log("Magdiel Juarez Guerrero");
+        console.log("Ivan Espinosa Nulutagua");
+		console.log("Maria Itzel Marroquin");
 	console.log("Nephtali Palillero Pérez");
 })
