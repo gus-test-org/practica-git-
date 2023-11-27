@@ -9,5 +9,6 @@ app.listen(port, function () {
         console.log("Magdiel Juarez Guerrero");
 	console.log("Ignacio Baez");
         console.log("Magdiel Juarez Guerrero");
-        console.log("Ivan Espinosa Nulutagua"):
+        console.log("Ivan Espinosa Nulutagua");
+		console.log("Maria Itzel Marroquin");
 })
