@@ -6,6 +6,7 @@ app.listen(port, function () {
 
 	console.log("Escribe una linea que imprima tu nombre abajo de esta.");
 	console.log("Rigoberto Gonzalez");
-  	console.log("Magdiel Juarez Guerrero");
-	console.log("Maria Itzel Marroquin Ramirez");
+  console.log("Magdiel Juarez Guerrero");
+	console.log("Ignacio Baez");
+	console.log("Maria Itzel Marroquin")
 })
