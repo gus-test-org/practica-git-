@@ -2,6 +2,7 @@ const express = require("express");
 const app = express();
 const port = 8080;
 
+// Borrando mi tontería
 const name = "santiago";
 
 app.listen(port, function () {
